@@ -18,3 +18,11 @@ Como instalar o servidor Zabbix no Docker Compose:
 As questões 2 e 3 não foram implementadas pois acredito que será feito no teste prático presencial em data a ser definida.
 
 Obrigado!
+
+Modificado o arquivo para adicionar as informações pessoais do candidato.
+
+RODRIGO RODRIGUES FRANÇA BENTO
+CPF: 940.454.101-04
+TESTE PRÁTICO INFRAESTRUTURA 
+
+
